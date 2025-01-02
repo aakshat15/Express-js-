@@ -1,0 +1,19 @@
+REST API
+
+GET / USER - HTML DOCUMENT RENDER  
+
+GET / API / USER -LIST ALL USER
+
+GET / API / USER / 1 - GET THE USER WITH ID 1
+GET / API / USER / 2 - GET THE USER WITH ID 2
+
+Dynamic path Parameter 
+
+GET / api / user / :id
+:id --> Its a variables || Dynamic
+
+POST / API / USER - CREATE NEW USER
+
+PATCH / API /  USER / 1 - EDIT THE USER WITH ID 1
+ 
+DELET / API / USER / 1 - DELET THE USER WITH ID 1
